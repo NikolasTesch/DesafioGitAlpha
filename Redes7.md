@@ -1,5 +1,5 @@
-|[Main Page](./REDME.md)|
-|[Trial 1 Acess](./Trilha1.md)|
+|[Main Page](./README.md)|
+|[Trial 1 Acess](./TRilha1.md)|
 |[Trial 2 Acess](./Trilha2.md)|
 📘Redes de Computadores
 ## Introdução às Redes de Computadores
@@ -66,4 +66,5 @@
 -  	 **Baixa latência** para aplicações críticas.
 -   **Alta capacidade** para dispositivos IoT.
 -   **Network slicing** para diferentes perfis de uso.
+
 
