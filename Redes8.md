@@ -1,5 +1,5 @@
-|[Main Page](./REDME.md)|
-|[Trial 1 Acess](./Trilha1.md)|
+|[Main Page](./README.md)|
+|[Trial 1 Acess](./TRilha1.md)|
 |[Trial 2 Acess](./Trilha2.md)|
 # 📘Segurança de Redes
 A segurança em redes é essencial diante das ameaças digitais crescentes. Seu objetivo é garantir **integridade, confidencialidade e disponibilidade** das informações.
@@ -32,3 +32,4 @@ A segurança em redes é essencial diante das ameaças digitais crescentes. Seu 
 -   **Hardware VPN**: usada em larga escala.
 -   **Serviços de VPN na nuvem**: escaláveis e flexíveis.
     
+
