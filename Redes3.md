@@ -1,4 +1,4 @@
-|[Main Page](./REDME.md)|
+|[Main Page](./README.md)|
 |[Trial 1 Acess](./TRilha1.md)|
 |[Trial 2 Acess](./Trilha2.md)|
 # 📘Endereçamento de IP, Sub-redes e Portas
@@ -51,4 +51,5 @@
 ## 🔒Bloqueio de Portas por ISPs
 -   Portas podem ser bloqueadas por motivos de **segurança** e **controle de tráfego**.
 -  Pode afetar serviços dependentes dessas portas.
+
 
