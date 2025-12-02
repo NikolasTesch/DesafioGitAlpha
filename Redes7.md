@@ -39,3 +39,31 @@
 -   Topologia em **anel**.
 -   Acesso controlado por **token**.
 -   Sem colisões, mas sujeito a atrasos.
+
+## 🛜Tecnologias de Interconexão em WAN
+	
+-   **Linhas Alugadas** – circuitos dedicados (ex.: T1, T3).
+-   **VPN** – tunelamento seguro via Internet.
+-   **MPLS** – caminhos virtuais escaláveis.
+-   **Redes Privadas Dedicadas** – máxima segurança e controle.
+
+## 🛜Wi-Fi 
+**Segurança Wi-Fi**
+-   **WPA / WPA2 / WPA3** – protocolos de segurança.
+-   **Criptografia AES**, autenticação forte e atualizações constantes.
+    
+
+## 📱Redes Celulares
+ **Rede 3G**
+-   Aumento na velocidade e suporte a videochamadas e Internet móvel.   
+	
+ **Rede 4G (LTE)**
+-   Baseada em **comutação por pacotes**.
+-   Suporta streaming em HD, jogos online e alta velocidade.
+	
+**Rede 5G**
+-   **Velocidades ultrarrápidas**.
+-  	 **Baixa latência** para aplicações críticas.
+-   **Alta capacidade** para dispositivos IoT.
+-   **Network slicing** para diferentes perfis de uso.
+
