@@ -1,5 +1,5 @@
-|[Main Page](./REDME.md)|
-|[Trial 1 Acess](./Trilha1.md)|
+|[Main Page](./README.md)|
+|[Trial 1 Acess](./TRilha1.md)|
 |[Trial 2 Acess](./Trilha2.md)|
 # 📘Arquitetura da Internet
 ## 🕸️Arquitetura da Internet
@@ -39,3 +39,4 @@
 -   **BGP Hijacking:** redirecionamento malicioso de rotas.
 -   **Vulnerabilidades em IoT.**
 -  **Engenharia social:** Ataques baseados na manipulação humana.
+
