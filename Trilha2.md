@@ -1,4 +1,4 @@
-|[Main Page](./REDME.md)|
+|[Main Page](./README.md)|
 # 📗Trilha 2.  Controle de versão
 
 |[Git, VSCode e GitLens](./Versionamento1.md)|
