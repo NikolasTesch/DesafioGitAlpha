@@ -1,5 +1,5 @@
-|[Main Page](./REDME.md)|
-|[Trial 1 Acess](./Trilha1.md)|
+|[Main Page](./README.md)|
+|[Trial 1 Acess](./TRilha1.md)|
 |[Trial 2 Acess](./Trilha2.md)|
  
 # 👾Controle de Versão com Git
@@ -61,3 +61,4 @@
 **Git log**
 -   Mostra histórico: `git log`
 -   Versão compacta: `git log --oneline`
+
