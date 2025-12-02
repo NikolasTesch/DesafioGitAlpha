@@ -1,5 +1,5 @@
-|[Main Page](./REDME.md)|
-|[Trial 1 Acess](./Trilha1.md)|
+|[Main Page](./README.md)|
+|[Trial 1 Acess](./TRilha1.md)|
 |[Trial 2 Acess](./Trilha2.md)|
 # 📘Segurança na Web
 ## 🗣️Mecanismos de Comunicação Segura
@@ -76,3 +76,4 @@
 -  Validação rigorosa da empresa.
 -   Exibe nome da organização na barra de endereço.
 -   Maior credibilidade.
+
