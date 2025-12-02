@@ -1,5 +1,5 @@
 |[Main Page](./REDME.md)|
-|[Trial 1 Acess](./Trilha1.md)|
+|[Trial 1 Acess](./TRilha1.md)|
 |[Trial 2 Acess](./Trilha2.md)|
 
 # 📘Conceitos fundamentais de redes de computadores
