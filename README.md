@@ -1,12 +1,17 @@
 #  👾`Desafio #1 - Introdução ao Git e Markdown`
-
+<div align="center">
+<img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqZXkQhssgoRiImJED-PkKGsoSgSYgQaoGbQ&s" alt="Logo do Alpha" width="500" height="400">
+</div>
 
 # 📗Trilha 1.  Introdução às Redes e à Internet
-
+  
 # 📘Conceitos fundamentais de redes de computadores
 ## 🌐Introdução às Redes de Computadores
  **Importância das Redes**
-- Eficiência - Conveniência -Escalabilidade -Redundância
+- Eficiência
+- Conveniência
+- Escalabilidade
+- Redundância
 - Uma rede é um **sistema de comunicação** que permite troca de dados entre dispositivos. 
 
  **Topologias de Rede**
