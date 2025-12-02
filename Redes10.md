@@ -1,4 +1,4 @@
-|[Main Page](./REDME.md)|
+|[Main Page](./README.md)|
 |[Trial 1 Acess](./TRilha1.md)|
 |[Trial 2 Acess](./Trilha2.md)|
 # 📘 Tendências e Desafios nas Redes Modernas
@@ -72,4 +72,5 @@ Sistemas capazes de **aprender com dados**.
 -   Resiliência e redundância
 -   Acesso facilitado a tecnologias avançadas (IA, ML)
 -   Segurança gerenciada por especialistas
+
 
