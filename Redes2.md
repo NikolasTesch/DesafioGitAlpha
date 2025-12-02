@@ -1,4 +1,4 @@
-|[Main Page](./REDME.md)|
+|[Main Page](./README.md)|
 |[Trial 1 Acess](./TRilha1.md)|
 |[Trial 2 Acess](./Trilha2.md)|
 
@@ -40,4 +40,5 @@ Protocolos empregam mecanismos para assegurar **integridade e confiabilidade**:
 -   Regula a **coleta, uso, tratamento e armazenamento** de dados pessoais no Brasil.    
 -   Inspirada no **GDPR** europeu.
 -   Em vigor desde 2021.
+
 
