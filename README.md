@@ -1,6 +1,6 @@
 #  👾`Desafio #1 - Introdução ao Git e Markdown`
 <div align="center">
-<img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqZXkQhssgoRiImJED-PkKGsoSgSYgQaoGbQ&s" alt="Logo do Alpha" width="500" height="400">
+<img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqZXkQhssgoRiImJED-PkKGsoSgSYgQaoGbQ&s" alt="Logo do Alpha" width="500" height="300">
 </div>
 
 # 📗Trilha 1.  Introdução às Redes e à Internet
