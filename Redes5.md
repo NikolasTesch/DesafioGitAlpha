@@ -1,4 +1,4 @@
-|[Main Page](./REDME.md)|
+|[Main Page](./README.md)|
 |[Trial 1 Acess](./TRilha1.md)|
 |[Trial 2 Acess](./Trilha2.md)|
 
@@ -42,4 +42,5 @@
  **Tipos de Zonas**
 -   **Diretas (Forward Lookup)**: nome → IP.
 -   **Reversas (Reverse Lookup)**: IP → nome.
+
 
