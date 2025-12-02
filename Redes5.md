@@ -1,5 +1,5 @@
 |[Main Page](./REDME.md)|
-|[Trial 1 Acess](./Trilha1.md)|
+|[Trial 1 Acess](./TRilha1.md)|
 |[Trial 2 Acess](./Trilha2.md)|
 
 # 📘DNS (Domain Name System)
@@ -42,3 +42,4 @@
  **Tipos de Zonas**
 -   **Diretas (Forward Lookup)**: nome → IP.
 -   **Reversas (Reverse Lookup)**: IP → nome.
+
