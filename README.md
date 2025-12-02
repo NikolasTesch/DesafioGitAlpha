@@ -4,7 +4,7 @@
 # 📗Trilha 1.  Introdução às Redes e à Internet
 
 # 📘Conceitos fundamentais de redes de computadores
-##  Introdução às Redes de Computadores
+## 🌐Introdução às Redes de Computadores
  **Importância das Redes**
 - Eficiência - Conveniência -Escalabilidade -Redundância
 - Uma rede é um **sistema de comunicação** que permite troca de dados entre dispositivos. 
@@ -18,30 +18,30 @@
 - **🔄 Anel**
 - **🕸️ Malha**
 
-## Comunicação em Rede
+## 🗣️Comunicação em Rede
  **Princípios Fundamentais**
 -   **Emissor e Receptor** -**Dados** - **Meio de Comunicação**- **Protocolos:** 
  
-## Escalabilidade em Redes
+## 🪜Escalabilidade em Redes
  **Princípios de Escalabilidade**
 -   **Arquitetura adequada:** topologia, equipamentos e protocolos corretos.
 -   **Redundância:** caminhos alternativos para evitar interrupções.
 -   **Balanceamento de carga:** distribuição equilibrada do tráfego.
 -   **Virtualização:** criação de redes virtuais otimizadas.
 
-## História e Evolução da Internet
+## 📚História e Evolução da Internet
 -   Criada nos anos 1960 pelo Departamento de Defesa dos EUA.
 -   Na década de 1980, o **TCP/IP** torna-se padrão.
 -   Internet Comercial (Anos 1990)
 -   Popularização da **World Wide Web (WWW)**.
 -   Surgimento de ISPs, comércio eletrônico e acesso massivo.
 
-##  Web 2.0
+##  📤Web 2.0
 -   Páginas dinâmicas e colaborativas.
 -   Uso de **AJAX**, design mais leve e intuitivo.
 -   Fortalecimento da navegação móvel
 
-##  Web 3.0
+##  📤Web 3.0
 -   Também chamada de **Web Semântica**.
 -   Busca fazer a web “**entender**” o significado dos dados.
 -   Uso de **metadados**, **ontologias** e padrões semânticos.
@@ -55,49 +55,49 @@
 -   Evitam colisões, perda de dados e falhas de comunicação.
 -   Fornecem **padronização global**, permitindo interoperabilidade entre redes e serviços.
 
-##  Protocolos de Transporte
+##  📄Protocolos de Transporte
 **Gerenciam a comunicação ponto a ponto entre dispositivos finais.**
 - **TCP – Transmission Control Protocol**
 - **UDP – User Datagram Protocol**
 
-## RFC – Request for Comments
+## 📄RFC – Request for Comments
 -   **Padronização:** garante compatibilidade global.
 -   **Inovação:** registra novas tecnologias e evoluções.
 -   **Solução de problemas:** explica abordagens técnicas a desafios da Internet.
 
-##  Estrutura de um Protocolo de Comunicação
+##  🗣️Estrutura de um Protocolo de Comunicação
  **Cabeçalhos:** Contêm informações essenciais para o processamento:
   **Mensagens:** Parte principal da comunicação.  Contêm os dados transmitidos entre dispositivos.
  **Campos de Dados:** Estruturas definidas dentro das mensagens.
 
-##  Garantia de Transmissão Correta
+##  🛣️Garantia de Transmissão Correta
 Protocolos empregam mecanismos para assegurar **integridade e confiabilidade**:
 -   **Verificação de integridade:** detecta corrupção de dados.
 -   **Sequenciamento:** garante ordem correta de entrega (TCP).
 -   **Confirmação e retransmissão:** reenviam pacotes perdidos.
 -   **Gerenciamento de erros:** corrige ou solicita novo envio.
 
-##  Protocolos de Segurança – SSL/TLS
+##  🔗Protocolos de Segurança – SSL/TLS
  **Função do SSL/TLS**
 -   Proporciona **criptografia** entre cliente e servidor.
 -   Protege dados contra interceptações.
 -   Identifica e autentica servidores legítimos.
    
-##  LGPD – Lei Geral de Proteção de Dados
+##  🔒LGPD – Lei Geral de Proteção de Dados
 -   Regula a **coleta, uso, tratamento e armazenamento** de dados pessoais no Brasil.    
 -   Inspirada no **GDPR** europeu.
 -   Em vigor desde 2021.
 
 
 # 📘Endereçamento de IP, Sub-redes e Portas
-## IPv4
+## 📍IPv4
 -   Composto por **quatro octetos decimais** (ex.: 192.168.1.1).
 -   **Endereço de Rede:** define a qual rede o dispositivo pertence.
 -   **Endereço de Host:** identifica o dispositivo dentro da rede.
 -   **Máscara de Sub-rede:** separa **rede** e **host** por meio de 1s e 0s.
 -   **Endereço de Broadcast:** último endereço da rede, usado para comunicação geral.
 
-## IPv6
+## 📍IPv6
 -   Criado para solucionar a **escassez de endereços IPv4**.
 -   Utiliza **128 bits**, permitindo espaço “virtualmente infinito”.
 -   Representado em **hexadecimal**, separado por dois-pontos.
@@ -107,15 +107,15 @@ Protocolos empregam mecanismos para assegurar **integridade e confiabilidade**:
 -   Maior **eficiência e desempenho**.
 
 
-## Máscaras de Sub-rede e Segmentação
+## 🎭Máscaras de Sub-rede e Segmentação
 **Máscara de Sub-rede**
 -   Define quais bits representam a **rede** (1) e o **host** (0).
 -   Fundamental para identificar se dispositivos estão na mesma sub-rede.
 
-**Segmentação de Rede**
+** ⛓️‍💥Segmentação de Rede**
 -   Divide uma rede maior em **sub-redes menores**.
 
-# **5. Ferramentas de Análise de Redes**
+# **🤓Ferramentas de Análise de Redes**
  **Ping**
 -   Verifica **conectividade**.
 -   Mede **latência** ida e volta.
@@ -124,7 +124,7 @@ Protocolos empregam mecanismos para assegurar **integridade e confiabilidade**:
 -   Exibe o **caminho** percorrido pelos pacotes.
 -   Ajuda a identificar **falhas de roteamento** e **perda de pacotes**.
 
-## 6. Portas e Firewall
+## 🚪Portas e Firewall
 **Portas**
 -   **Portas bem conhecidas:** 0–1023.
 -   **Portas registradas:** 1024–49151.
@@ -136,14 +136,13 @@ Protocolos empregam mecanismos para assegurar **integridade e confiabilidade**:
 -   **Proxy** como intermediário seguro.
 
     
-## 7. Bloqueio de Portas por ISPs
+## 🔒Bloqueio de Portas por ISPs
 -   Portas podem ser bloqueadas por motivos de **segurança** e **controle de tráfego**.
 -  Pode afetar serviços dependentes dessas portas.
 
 
 # 📘Serviços e Aplicações na Internet
-
-## Introdução aos Serviços Web
+## 🕸️Introdução aos Serviços Web
 -   Os **serviços web** são fundamentais na economia digital moderna.
 -   Permitem **integração de sistemas**, troca de dados e criação de soluções conectadas.
 
@@ -161,7 +160,7 @@ Conjuntos de **regras e protocolos** que possibilitam comunicação entre sistem
 -   Usa métodos HTTP: **GET, POST, PUT, DELETE**.
 -   Amplamente utilizado em **APIs modernas**, mídias sociais e IoT.
 
-## Arquitetura de Microsserviços
+## 🤏 Arquitetura de Microsserviços
 Divide a aplicação em **serviços independentes**, cada um com função específica.
 **Principais características**
 -   **Desacoplamento** total entre serviços.
@@ -171,13 +170,13 @@ Divide a aplicação em **serviços independentes**, cada um com função espec�
 -   **Resiliência**: falhas isoladas não derrubam todo o sistema.
    
 # 📘DNS (Domain Name System)
-## Conceitos Básicos de DNS
+## 🛜Conceitos Básicos de DNS
 -   Sistema distribuído que funciona como um _diretório_ de nomes da internet.
 -   Converte **nomes de domínio** em **endereços IP**.
 -   Facilita a navegação, permitindo o uso de nomes memoráveis em vez de números.
 -   O DNS é responsável por localizar o IP de um domínio digitado no navegador.
     
-## Servidores DNS
+## 🛜Servidores DNS
  **Servidores de Resolução (Recursivos)**
 -   Recebem as consultas dos clientes.
 -   Procuram respostas em cache ou consultam outros servidores.
@@ -190,12 +189,12 @@ Divide a aplicação em **serviços independentes**, cada um com função espec�
 -   Nível mais alto de resolução.
 -   Direcionam consultas para os servidores dos TLDs.
 
-## Consultas e Respostas DNS
+## 📶Consultas e Respostas DNS
 -   O navegador envia uma consulta ao servidor recursivo.
 -   A consulta contém nome solicitado, tipo de registro e outros dados.
 -   Servidor recursivo busca respostas nos servidores autoritativos.
 
-##  Tipos de Registros DNS
+##  📤Tipos de Registros DNS
 - **Registro A:** Mapeia nome de domínio → **endereço IPv4**.
 - **Registro AAAA:** Mapeia nome de domínio → **endereço IPv6**.
 - **Registro MX:** Define servidores responsáveis por receber e-mails de um domínio.
@@ -206,24 +205,24 @@ Divide a aplicação em **serviços independentes**, cada um com função espec�
 - **Registro SRV:** Indica servidores que fornecem serviços específicos (VoIP, mensagens etc.).
 - **Registros ALIAS:** Usados para apontar nomes para recursos em nuvem ou CDNs.
 
-## Zoneamento e Zonas DNS
+## ⛓️‍💥Zoneamento e Zonas DNS
  **Tipos de Zonas**
 -   **Diretas (Forward Lookup)**: nome → IP.
 -   **Reversas (Reverse Lookup)**: IP → nome.
     
 # 📘Arquitetura da Internet
-## Arquitetura da Internet
+## 🕸️Arquitetura da Internet
  **Características Gerais**
 -   A Internet é uma **rede de redes**, composta por milhões de dispositivos interconectados.
 -   ISPs, backbones e IXPs cooperam para manter a conectividade global.
     
-## Backbones da Internet
+## 🏠Backbones da Internet
  **Função dos Backbones**
 -   Representam a **espinha dorsal da Internet**.
 -   Compostos por **cabos de fibra óptica**, **roteadores de alto desempenho** e infraestrutura robusta.
 -   Transportam grandes volumes de tráfego entre regiões.
 
-## Problemas e Soluções em Backbones
+## 💣Problemas e Soluções em Backbones
  **Principais Problemas**
 -   **Congestionamento:** excesso de tráfego reduz desempenho.
 -   **Falhas de hardware:** problemas em roteadores ou cabos afetam a conectividade.
@@ -235,12 +234,12 @@ Divide a aplicação em **serviços independentes**, cada um com função espec�
 -   Redundância de equipamentos e rotas.
 -   Sistemas avançados de segurança.
 
-## Pontos de Troca de Tráfego (IXPs)
+## 📔Pontos de Troca de Tráfego (IXPs)
  **Função dos IXPs**
 -   Locais onde redes diferentes trocam tráfego diretamente.
 -   Reduzem **latência** e melhoram a **eficiência** do roteamento.
     
-## Desafios de Segurança na Internet
+## 🔒Desafios de Segurança na Internet
  **Principais Ameaças**
 -   **Malware** (vírus, worms, trojans, spyware, adware).
 -   **Ransomware:** criptografa dados e exige resgate.
@@ -254,7 +253,7 @@ Divide a aplicação em **serviços independentes**, cada um com função espec�
 ## Introdução às Redes de Computadores
 -   As redes são classificadas pela **abrangência geográfica** e pelas **aplicações**.
 
-## Classificação das Redes por Abrangência Geográfica**
+## 🏙️Classificação das Redes por Abrangência Geográfica**
 **LAN – Local Area Network**
 -   Rede de **pequena escala**: casas, escritórios, campi.
 	
@@ -267,7 +266,7 @@ Divide a aplicação em **serviços independentes**, cada um com função espec�
 **PAN – Personal Area Network**
 -   Rede de **curto alcance**, alguns metros.
 
-## Dispositivos de Rede
+## ⚡Dispositivos de Rede
  **Principais Equipamentos**
 -**Switches**
 -**Roteadores**
@@ -276,7 +275,7 @@ Divide a aplicação em **serviços independentes**, cada um com função espec�
  -**Firewalls**
 -**Servidores**
 
-## Arquiteturas de LAN
+## 🏠Arquiteturas de LAN
 
 **Ethernet**
 -   A mais utilizada no mundo.
@@ -289,20 +288,20 @@ Divide a aplicação em **serviços independentes**, cada um com função espec�
 -   Acesso controlado por **token**.
 -   Sem colisões, mas sujeito a atrasos.
 
-## Tecnologias de Interconexão em WAN
+## 🛜Tecnologias de Interconexão em WAN
 	
 -   **Linhas Alugadas** – circuitos dedicados (ex.: T1, T3).
 -   **VPN** – tunelamento seguro via Internet.
 -   **MPLS** – caminhos virtuais escaláveis.
 -   **Redes Privadas Dedicadas** – máxima segurança e controle.
 
-## Wi-Fi 
+## 🛜Wi-Fi 
 **Segurança Wi-Fi**
 -   **WPA / WPA2 / WPA3** – protocolos de segurança.
 -   **Criptografia AES**, autenticação forte e atualizações constantes.
     
 
-## Redes Celulares
+## 📱Redes Celulares
  **Rede 3G**
 -   Aumento na velocidade e suporte a videochamadas e Internet móvel.   
 	
@@ -319,7 +318,7 @@ Divide a aplicação em **serviços independentes**, cada um com função espec�
 # 📘Segurança de Redes
 A segurança em redes é essencial diante das ameaças digitais crescentes. Seu objetivo é garantir **integridade, confidencialidade e disponibilidade** das informações.
     
-## Principais Ameaças à Segurança de Redes
+## 💣Principais Ameaças à Segurança de Redes
  - **Malware**
  - **Ataques de Phishing**
  - **Ataques DoS (Negação de Serviço)**
@@ -331,13 +330,13 @@ A segurança em redes é essencial diante das ameaças digitais crescentes. Seu 
 - **Injeção de Código**
 - **Ameaças Internas (Insider Threats)**
 
-## Firewalls – Medidas de Segurança Essenciais
+## 🔥Firewalls – Medidas de Segurança Essenciais
 - **Firewall de Pacotes (Stateless)**
 -  **Firewall de Estado (Stateful)**
 - **Firewall de Aplicação (Proxy)**
 - **Firewalls de Próxima Geração (NGFW)**
 
-##  Redes Privadas Virtuais (VPNs)
+## 🛜Redes Privadas Virtuais (VPNs)
 -   **Acesso Remoto**: acesso de usuários externos.
 -   **Site-to-Site**: conecta redes corporativas.
 -   **L2VPN e L3VPN**: camadas 2 e 3 da rede.
@@ -348,7 +347,7 @@ A segurança em redes é essencial diante das ameaças digitais crescentes. Seu 
 -   **Serviços de VPN na nuvem**: escaláveis e flexíveis.
     
 # 📘Segurança na Web
-## Mecanismos de Comunicação Segura
+## 🗣️Mecanismos de Comunicação Segura
 **Criptografia**
 -   Uso de protocolos **SSL/TLS** para cifrar informações.
 -   Mesmo que os dados sejam interceptados, permanecem **ilegíveis**.
@@ -363,7 +362,7 @@ A segurança em redes é essencial diante das ameaças digitais crescentes. Seu 
 -   **Confidencialidade:** protege logins, dados pessoais e financeiros.
 -   **Proteção contra MitM:** dificulta interceptação e modificação dos dados.
     
-## SSL/TLS
+## 🔓SSL/TLS
  **Handshake SSL/TLS**
 -   **Início da comunicação:** cliente solicita conexão segura.
 -   **Servidor envia certificado.**
@@ -372,7 +371,7 @@ A segurança em redes é essencial diante das ameaças digitais crescentes. Seu 
 -   **Criptografia da sessão:** comunicação segura estabelecida.
     
 
-##  Autoridades Certificadoras (CAs)
+## 📔 Autoridades Certificadoras (CAs)
  **Processo de Emissão**
 -   Escolha da CA (ex.: _Let’s Encrypt_, _DigiCert_).
 -   Solicitação e geração das chaves.
@@ -386,7 +385,7 @@ A segurança em redes é essencial diante das ameaças digitais crescentes. Seu 
 -   Danos à reputação da organização.
     
 
-##  Criptografia Simétrica vs. Assimétrica
+## 📔 Criptografia Simétrica vs. Assimétrica
 **Simétrica**
 -   Usa **uma única chave**.
 -   Muito eficiente.
@@ -396,7 +395,7 @@ A segurança em redes é essencial diante das ameaças digitais crescentes. Seu 
 -   Usa **par de chaves** (pública + privada).
 -   Resolve o problema da distribuição de chaves. -   Mais lenta e usada em pequenas porções (ex.: troca de chaves).
 
-##  Criptografia de Ponta a Ponta (E2EE)
+## 📔 Criptografia de Ponta a Ponta (E2EE)
 **Características**
 -   Apenas remetente e destinatário conseguem decifrar os dados.
 -   Mesmo o provedor do serviço não tem acesso.
@@ -408,7 +407,7 @@ A segurança em redes é essencial diante das ameaças digitais crescentes. Seu 
 -   Pode impactar a experiência do usuário.
     
 
-## Certificação
+## 📔Certificação
 **DV – Domain Validation**
 -   Valida apenas o domínio.
 -   Processo simples e automatizado.
@@ -424,7 +423,7 @@ A segurança em redes é essencial diante das ameaças digitais crescentes. Seu 
 -   Maior credibilidade.
 
 # 📘 Tendências e Desafios nas Redes Modernas
-# Internet das Coisas (IoT)
+# 🖥️Internet das Coisas (IoT)
 Conecta **objetos físicos** à internet para coleta e troca de dados. Utiliza sensores, software e tecnologias de rede.
   
 **Exemplos de Dispositivos**
@@ -440,7 +439,7 @@ Conecta **objetos físicos** à internet para coleta e troca de dados. Utiliza s
 -   **HTTP/HTTPS** – integração com sistemas web
 -   **LoRaWAN** – comunicação de longo alcance
 
-## Machine Learning e Inteligência Artificial
+## 🤖Machine Learning e Inteligência Artificial
 Sistemas capazes de **aprender com dados**.
     
 **Tipos de Aprendizado**
@@ -454,12 +453,12 @@ Sistemas capazes de **aprender com dados**.
 -   **Processamento de Linguagem Natural**
 -   **Detecção de anomalias** e ameaças
     
-## Autenticação Multifatorial e Biometria
+## 🔒Autenticação Multifatorial e Biometria
 -   **MFA**: múltiplas etapas de verificação (senhas, tokens, códigos).
 -   **Biometria**: características únicas (digital, rosto, íris).
 -   **Biometria comportamental**: padrões de digitação e interação.
     
-## Ataques Cibernéticos Sofisticados
+## 🕴️Ataques Cibernéticos Sofisticados
 **Principais Ameaças**
 -   **Engenharia social avançada**
 -   **Malware avançado** e **APTs**
@@ -467,7 +466,7 @@ Sistemas capazes de **aprender com dados**.
 -   **Vulnerabilidades zero-day**
 -   **Infraestruturas C2 robustas**
     
-## CDNs e Segurança nas Redes
+## 📶CDNs e Segurança nas Redes
 **Benefícios das CDNs**
 -   **Distribuição global** de conteúdo
 -   **Mitigação de ataques DDoS**
@@ -477,7 +476,7 @@ Sistemas capazes de **aprender com dados**.
 -   Atualizações rápidas
 -   Proteção contra força bruta
     
-## Abordagens “On-Premise” e “Nuvem”
+## ☁️Abordagens “On-Premise” e “Nuvem”
 **On-Premise**
 -   **Controle direto** da infraestrutura
 -   Maior controle por **conformidade**
@@ -515,22 +514,22 @@ Sistemas capazes de **aprender com dados**.
 
 ##  Configuração Inicial do Git
 
- **Nome e Email**
+ **🗒️Nome e Email**
 `git config --global user.name "Seu Nome" ` 
 `git config --global user.email "email@exemplo.com"` 
 
-**Editor de texto**
+**📝Editor de texto**
 -   Linux/macOS/WSL: `nano`
 -   Windows: `notepad`
    
-**Tipos de configuração**
+**⚙️Tipos de configuração**
 -   **Global**: vale para todos os projetos.
 -   **Local**: vale somente no repositório atual.
     
 	
 ## 🔄Fluxo de Trabalho Básico com Git
 
- **Criação do projeto**
+ **⚙️Criação do projeto**
 -   Criar pasta: `mkdir nome`
 -   Acessar pasta: `cd nome`
     
@@ -562,7 +561,7 @@ Sistemas capazes de **aprender com dados**.
 -   Uma branch é um **marcador apontando para um commit específico**.
 -   Diferente de tags, as branches **avançam** conforme novos commits são feitos.
     
-##  Criando e Manipulando Branches
+## 🪢Criando e Manipulando Branches
 **Comandos essenciais**
 -   Criar branch:`git branch <nome>` 
 -   Criar branch e já trocar para ela:`git checkout -b <nome>` 
@@ -574,9 +573,7 @@ Sistemas capazes de **aprender com dados**.
     -   Atualiza a **Working Tree** para refletir o commit de destino.
 -   **Modificações locais não são perdidas** (exceto em situações especiais com conflito de diretório).
 
-
-
-## Merge (Fusão de Branches)
+## 🪢Merge (Fusão de Branches)
 **Tipos de merge**
 **Fast-forward**
 -   Ocorre quando existe **linha reta** entre a branch atual e a outra.
